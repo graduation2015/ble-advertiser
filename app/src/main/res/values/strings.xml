@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BleAdvertiser</string>
+    <string name="action_settings">Settings</string>
+    <string name="company01">company01</string>
+    <string name="company02">company02</string>
+    <string name="company03">company03</string>
+</resources>

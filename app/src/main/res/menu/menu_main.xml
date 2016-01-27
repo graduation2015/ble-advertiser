@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="jp.ac.it_college.std.bleadvertiser.MainActivity">
+    <item
+        android:id="@+id/menu_advertise_switch"
+        android:title=""
+        app:showAsAction="always"
+        app:actionLayout="@layout/advertise_switch"
+        />
+</menu>
